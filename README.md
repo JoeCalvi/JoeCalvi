@@ -1,16 +1,32 @@
 ### Hi there 👋
 
-<!--
-**JoeCalvi/JoeCalvi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```yaml
+*
+name: Joe Calvi,
+located_in: Nampa, Idaho,
+willing_to_relocate: true,
+education:
+  [
+    {
+      name: Boise CodeWorks,
+      type: Coding Bootcamp,
+      studied: Full Stack Software Development
+    },
+    {
+      name: Arizona State University,
+      type: State College,
+      studied: Communications
+    }
+  ] 
+fields_of_interest:
+  [
+    "Game Development",
+    "Web Development",
+    "Data Science",
+    "Building APIs",
+    "UI/UX"
+  ]
+currently_learing: "Unity Game Engine",
+hobbies: ["Music", "Gaming", "Chess", "Hanging out with my cats"]
+*
+```
