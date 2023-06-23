@@ -1,4 +1,4 @@
-### Hi there 👋 Maybe we could work together?
+### Hi there 👋
 
 ```yaml
 name: Joe Calvi,
@@ -28,3 +28,5 @@ fields_of_interest:
 currently_learing: "Unity Game Engine",
 hobbies: ["Music", "Gaming", "Chess", "Hanging out with my cats"]
 ```
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoeCalvi)](https://github.com/JoeCalvi/github-readme-stats)
