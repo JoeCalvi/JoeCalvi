@@ -45,4 +45,6 @@ hobbies: ["Music", "Gaming", "Chess", "Hanging out with my cats"]
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="45" height="45"/>
 </p>
 
+[![Joe's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoeCalvi)](https://github.com/JoeCalvi/github-readme-stats)
+
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoeCalvi)](https://github.com/JoeCalvi/github-readme-stats) -->
