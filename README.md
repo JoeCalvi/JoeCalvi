@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 Maybe we could work together?
 
 ```yaml
 name: Joe Calvi,
