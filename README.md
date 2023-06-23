@@ -29,7 +29,7 @@ currently_learing: "Unity Game Engine",
 hobbies: ["Music", "Gaming", "Chess", "Hanging out with my cats"]
 ```
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
-<p align="left">
+<p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodeJS" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="express" width="45" height="45"/>
