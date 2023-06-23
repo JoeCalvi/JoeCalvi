@@ -45,20 +45,9 @@ hobbies: ["Music", "Gaming", "Chess", "Hanging out with my cats"]
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="45" height="45"/>
 </p>
 
-<h2 align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" alt="unity" width="45" height="45"/> &nbsp; Unity Badges and Achievements</h2>
-<p>
-<div>
+<h2> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" alt="unity" width="45" height="45"/> &nbsp; Unity Badges and Achievements</h2>
+<p align="center">
 <img src="https://connect-prd-cdn.unity.com/20201028/learn/images/c01fcc3c-687d-4752-96dc-35e739715c3d_02_Real_Time_Creation_Essentials_Mission.png.1400x0x1.webp" alt="Unity Editor Essentials" width="45" height="45"/>
-<p>
-Absolute Beginner Project Setup & Settings
-  - Create and manage projects in the Unity Hub
-Unity Editor Essentials
-  - Identify and use essential features of the Unity Editor.
-  - Create and Manage Scenes
-  - Navigate in 3D space in the Scene view
-  - Navigate in 2D space in the Scene view
-</p>
-</div>
 </p>
 
 <!-- [![Joe's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoeCalvi)](https://github.com/JoeCalvi/github-readme-stats) -->
