@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 ```yaml
-*
 name: Joe Calvi,
 located_in: Nampa, Idaho,
 willing_to_relocate: true,
@@ -28,5 +27,4 @@ fields_of_interest:
   ]
 currently_learing: "Unity Game Engine",
 hobbies: ["Music", "Gaming", "Chess", "Hanging out with my cats"]
-*
 ```
