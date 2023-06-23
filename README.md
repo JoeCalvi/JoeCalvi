@@ -46,7 +46,7 @@ hobbies: ["Music", "Gaming", "Chess", "Hanging out with my cats"]
 </p>
 
 <h2 align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" alt="unity" width="45" height="45"/> &nbsp; Unity Badges and Achievements</h2>
-<p align="left">
+<p>
 <div>
 <img src="https://connect-prd-cdn.unity.com/20201028/learn/images/c01fcc3c-687d-4752-96dc-35e739715c3d_02_Real_Time_Creation_Essentials_Mission.png.1400x0x1.webp" alt="Unity Editor Essentials" width="45" height="45"/>
 <p>
