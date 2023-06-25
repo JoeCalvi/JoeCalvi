@@ -51,6 +51,6 @@ hobbies: ["Music", "Gaming", "Chess", "Hanging out with my cats"]
 <img src="https://connect-prd-cdn.unity.com/20200928/learn/images/67e42083-92a8-4ff3-af64-2865b8c78081_01_Programming_Basics_Mission.png.1400x0x1.webp" alt="Programming Basics" width="45" height="45"/>
 </p>
 
-<!-- [![Joe's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoeCalvi)](https://github.com/JoeCalvi/github-readme-stats) -->
+[![Joe's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoeCalvi)](https://github.com/JoeCalvi/github-readme-stats)
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoeCalvi)](https://github.com/JoeCalvi/github-readme-stats) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoeCalvi)](https://github.com/JoeCalvi/github-readme-stats)
