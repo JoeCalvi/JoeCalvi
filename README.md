@@ -3,7 +3,7 @@
 ```yaml
 name: Joe Calvi,
 located_in: Nampa, Idaho,
-willing_to_relocate: true,
+employed: true,
 education:
   [
     {
@@ -25,7 +25,7 @@ fields_of_interest:
     "Building APIs",
     "UI/UX"
   ]
-currently_learing: "Unity Game Engine",
+currently_learing: "Coldfusion",
 hobbies: ["Music", "Gaming", "Chess", "Hanging out with my cats"]
 ```
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
